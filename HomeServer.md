@@ -1,3 +1,4 @@
 
 Current Infrastructure
-![](home_infrasrtucture_schematic.png)
+
+![](Attachments/home_infrasrtucture_schematic.png)
